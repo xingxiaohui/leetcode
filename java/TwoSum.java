@@ -2,7 +2,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Created by codingBoy on 17/2/3.
+ * Created by xingxiaohui on 17/10/8.
  */
 public class TwoSum {
     public static void main(String[] args)
