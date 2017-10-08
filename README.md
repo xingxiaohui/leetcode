@@ -1,8 +1,7 @@
 # leetcode
 This is my note of leetcode problems and solutions.
 
-<h2>problems and solutions</h2>
-***
+<h2>Problems and solutions</h2>
 <table>
   <tr>
     <td>
