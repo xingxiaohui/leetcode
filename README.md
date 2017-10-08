@@ -1,7 +1,7 @@
 # leetcode
 This is my note of leetcode problems and solutions.
 
-##problems and solutions
+##problems and solutions##
 =
 <table>
   <tr>
