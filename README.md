@@ -22,10 +22,14 @@ This is my note of leetcode problems and solutions.
     1
     </td>
      <td>
-       <a href="https://leetcode.com/problems/two-sum/description/" >Two Sum</a>
+       <a href="https://leetcode.com/problems/two-sum/description/" >
+         Two Sum
+       </a>
     </td>
      <td>
-    java
+       <a href="https://github.com/xingxiaohui/leetcode/blob/master/java/TwoSum.java">
+         java
+       </a>
     </td>
     <td>
    Easy
