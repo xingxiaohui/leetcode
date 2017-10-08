@@ -2,7 +2,7 @@
 This is my note of leetcode problems and solutions.
 
 <h2>problems and solutions</h2>
-=
+***
 <table>
   <tr>
     <td>
